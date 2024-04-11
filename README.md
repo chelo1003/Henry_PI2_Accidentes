@@ -45,7 +45,7 @@ Se muestra a continuación la cantidad de peatones fallecidos o con lesiones gra
 
 ## Dashboard
 
-La presentación se desarrolló con el software [Tableau](https://www.tableau.com/), haciendo uno de su funcionalidad "storytelling", y se disponibilizó en el servidor público. [**Enlace a la presentación.**](https://www.tableau.com/).  
+La presentación se desarrolló con el software [Tableau](https://www.tableau.com/), haciendo uno de su funcionalidad "storytelling", y se disponibilizó en el servidor público. [**Enlace a la presentación.**](https://public.tableau.com/app/profile/marcelo.trinkard/viz/presentacion_17128403855670/Presentacion).  
 La presentación cuenta con tres dashboards interactivos y consecutivos. El primero de ellos hace una puesta en contexto general de los datos, el segundo cala un poco más profundo analizando las muertes en accidentes de tránsito, mostrando además uno de los KPI propuestos, y en el último dashboard, se presentan los dos KPI específicos, abarcando dos de las víctimas más expuestas según los datos analizados, las motos y los peatones.  
 
 <img src="data/dashboard.png" alt="Texto alternativo" width="700">
@@ -61,3 +61,11 @@ Los tres KPI mostrados son:
 Se muestra a continuación, la presentación gráfica de los tres KPI mencionados:
 
 ![alt text](data/kpi1.png) ![alt text](data/kpi2.png) ![alt text](data/kpi3.png)
+
+## CONCLUSIONES
+
+El presente estudio o análisis es impulsado por tres preguntas fundamentales: ¿QUÉ? ¿DONDE? ¿QUIÉN?. 
+
+- ¿**Qué** está pasando? es la pregunta cuya respuesta da origen al análisis, los altos índices de mortalidad en accidentes de tránsito y la cantidad de accidentes con víctimas graves, ambos en el ámbito de la Ciudad Autónoma de Buenos Aires.  
+- ¿**Donde** está pasando?. Es la primera de las dos preguntas que se busca responder. Los sectores con mayor cantidad de accidentes son la zona del microcentro porteño, comunas 1, 3 y 4. Y la zona centro norte de CABA, principalmente comuna 15. Si queremos ser más específicos, hay que poner el foco de atención en las avenidas de la ciudad, ya que aún con una extensión mucho menor a las calles, nuclean la mayor parte de los accidentes, y sobre todo los de mayor gravedad.
+- ¿**Quién** está teniendo accidentes graves?. Para responder esta pregunta, surgen del análisis dos actores principales: Las motos y los peatones. Las motos son las víctimas de la mayor parte de los accidentes, y están conducidas en su mayoría por varones en el rango etario que va desde los 20 a los 40 años. En el caso de los peatones atropellados, el rango etario se extiende hacia los años de la vejez, siendo el grupo mayoritario el que abarca personas desde 70 años en adelante. Nuevamente son las avenidas el problema principal para ambas categorías.
