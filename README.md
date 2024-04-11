@@ -18,15 +18,17 @@ Se presentan a modo de resumen introductorio los insights detectados a partir de
 
 - El momento del día en el que ocurren más accidentes va desde las 12:00 a las 18:00, con un pico entre las 16:00 y las 17:00, que coincide con el fin de la jornada laboral de muchos gremios.  
 
-<img src="data/acc_hora.png" alt="Texto alternativo" width="700">
+<img src="data/acc_hora.png" alt="Texto alternativo" width="500">
 
 - El grupo poblacional más afectado en los accidentes está compuesto principalmente por hombres (70% hombres / 30% mujeres) y en el rango etario de 20 a 40 años. Esto podría deberse a que esta población coincida con el grupo mayoritario de conductores. 
 
-<img src="data/acc_genero.png" alt="Texto alternativo"> <img src="data/acc_edad.png" alt="Texto alternativo" width="590">
+<img src="data/acc_genero.png" alt="Texto alternativo">  
+
+<img src="data/acc_edad.png" alt="Texto alternativo" width="500">
 
 - **El vehículo que genera más lesionados en los accidentes son las motos,** y en su mayoría conducidas por hombres.
 
-<img src="data/acc_vehiculo_genero.png" alt="Texto alternativo" width="700">
+<img src="data/acc_vehiculo_genero.png" alt="Texto alternativo" width="500">
 
 - Las avenidas en general, incluyendo a la General Paz, son las vías de circulación que reportan un mayor número (en cantidad y en porcentaje), de muertos y heridos graves en sus accidentes. Si consideramos que la longitud de las avenidas es aproximadamente un 25% de la longitud de calles, estos datos cobran mayor importancia. 
 Los datos indicadores de cantidad de accidentes por unidad de longitud son los siguientes:  
@@ -41,7 +43,7 @@ Calles 2.74 Accidentes/km
 - Un observación particularmente alarmante, y que no está en relación con los demás puntos, es la cantidad de heridos graves y fallecidos que hay en el rol de peatones, casi un 70% u 80% comparando con los fallecidos en accidentes de motos o autos. Lógicamente la mayoría de los casos ocurre en la zona del microcentro, donde hay mayor cantidad de peatones. Este tipo de accidente constituye la causa principal de los fallecidos en la gente de mayor edad.  
 Se muestra a continuación la cantidad de peatones fallecidos o con lesiones graves por comuna.
 
-<img src="data/acc_peatones.png" alt="Texto alternativo" width="700">
+<img src="data/acc_peatones.png" alt="Texto alternativo" width="500">
 
 ## Dashboard
 
@@ -68,4 +70,15 @@ El presente estudio o análisis es impulsado por tres preguntas fundamentales: �
 
 - ¿**Qué** está pasando? es la pregunta cuya respuesta da origen al análisis, los altos índices de mortalidad en accidentes de tránsito y la cantidad de accidentes con víctimas graves, ambos en el ámbito de la Ciudad Autónoma de Buenos Aires.  
 - ¿**Donde** está pasando?. Es la primera de las dos preguntas que se busca responder. Los sectores con mayor cantidad de accidentes son la zona del microcentro porteño, comunas 1, 3 y 4. Y la zona centro norte de CABA, principalmente comuna 15. Si queremos ser más específicos, hay que poner el foco de atención en las avenidas de la ciudad, ya que aún con una extensión mucho menor a las calles, nuclean la mayor parte de los accidentes, y sobre todo los de mayor gravedad.
-- ¿**Quién** está teniendo accidentes graves?. Para responder esta pregunta, surgen del análisis dos actores principales: Las motos y los peatones. Las motos son las víctimas de la mayor parte de los accidentes, y están conducidas en su mayoría por varones en el rango etario que va desde los 20 a los 40 años. En el caso de los peatones atropellados, el rango etario se extiende hacia los años de la vejez, siendo el grupo mayoritario el que abarca personas desde 70 años en adelante. Nuevamente son las avenidas el problema principal para ambas categorías.
+- ¿**Quién** está teniendo accidentes graves?. Para responder esta pregunta, surgen del análisis dos actores principales: Las motos y los peatones. Las motos son las víctimas de la mayor parte de los accidentes, y están conducidas en su mayoría por varones en el rango etario que va desde los 20 a los 40 años. En el caso de los peatones atropellados, el rango etario se extiende hacia los años de la vejez, siendo el grupo mayoritario el que abarca personas desde 70 años en adelante. Nuevamente son las avenidas el problema principal para ambas categorías.  
+
+--------------------------------------------------
+
+#### STACK TECNOLÓGICO
+
+<img src="data/stack.png" alt="Texto alternativo" width="500">
+
+#### CONTACTO
+Marcelo Trinkard  
+(AR)+543492419953  
+[LINKEDIN](https://www.linkedin.com/in/marcelo-trinkard-7b66a3295/)
