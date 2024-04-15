@@ -47,7 +47,7 @@ Se muestra a continuación la cantidad de peatones fallecidos o con lesiones gra
 
 ## Dashboard
 
-La presentación se desarrolló con el software [Tableau](https://www.tableau.com/), haciendo uno de su funcionalidad "storytelling", y se disponibilizó en el servidor público. [**Enlace a la presentación.**](https://public.tableau.com/app/profile/marcelo.trinkard/viz/presentacion_17128403855670/Presentacion).  
+La presentación se desarrolló con el software [Tableau](https://www.tableau.com/), haciendo uno de su funcionalidad "storytelling", y se disponibilizó en el servidor público. [**Enlace a la presentación.**](https://public.tableau.com/app/profile/marcelo.trinkard/viz/presentacion_17131977455650/Presentacion).  
 La presentación cuenta con tres dashboards interactivos y consecutivos. El primero de ellos hace una puesta en contexto general de los datos, el segundo cala un poco más profundo analizando las muertes en accidentes de tránsito, mostrando además uno de los KPI propuestos, y en el último dashboard, se presentan los dos KPI específicos, abarcando dos de las víctimas más expuestas según los datos analizados, las motos y los peatones.  
 
 <img src="data/dashboard.png" alt="Texto alternativo" width="700">
